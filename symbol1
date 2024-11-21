@@ -1,0 +1,7 @@
+echo "# 符号" >> README.md
+git初始化
+git 添加 README.md
+git commit -m 《第一次提交》
+gitbranch-M 主
+git远程添加origin https://github.com/shengyimin0709/symbol.git
+git push - u 起源主要
