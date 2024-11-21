@@ -1,7 +1,3 @@
-echo "# 符号" >> README.md
-git初始化
-git 添加 README.md
-git commit -m 《第一次提交》
-gitbranch-M 主
-git远程添加origin https://github.com/shengyimin0709/symbol.git
-git push - u 起源主要
+欢迎大家加入书生大模型实战训练营
+我是零基础希望能够在这样的训练营中，跟随着老师们、大佬们的节奏学到时代进步的技术和环境。
+🤭
